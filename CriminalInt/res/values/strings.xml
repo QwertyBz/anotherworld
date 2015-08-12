@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CriminalInt</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="crime_title_hint">Введите название для преступления</string>
+    
+    <string name="crime_title_label">Заголовок</string>
+    <string name="crime_details_label">Детали</string>
+    <string name="crime_solved_label">Преступление раскрыто?</string>
+	<string name="crimes_title">Преступления</string>
+	<string name="date_picker_title">Дата преступления</string>
+	<string name="new_crime">Новое преступление</string>
+	<string name="show_subtitle">Показать заголовок</string>
+	<string name="hide_subtitle">Скрыть заголовок</string>
+	<string name="subtitle">Если вы видите что-то, скажите что-нибудь</string>
+	<string name="delete_crime">Удалить</string>
+
+</resources>
