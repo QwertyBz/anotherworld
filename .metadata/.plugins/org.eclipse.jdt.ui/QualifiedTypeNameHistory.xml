@@ -7,12 +7,15 @@
 <fullyQualifiedTypeName name="com.example.less20.R.id"/>
 <fullyQualifiedTypeName name="android.view.animation.AnimationUtils"/>
 <fullyQualifiedTypeName name="com.example.less20.R.anim"/>
-<fullyQualifiedTypeName name="android.support.v7.app.AppCompatActivity"/>
 <fullyQualifiedTypeName name="android.widget.Button"/>
-<fullyQualifiedTypeName name="android.view.View.OnClickListener"/>
-<fullyQualifiedTypeName name="java.lang.Override"/>
 <fullyQualifiedTypeName name="android.text.TextUtils"/>
 <fullyQualifiedTypeName name="com.example.less19.R.id"/>
 <fullyQualifiedTypeName name="com.example.less19.R.string"/>
 <fullyQualifiedTypeName name="android.widget.Toast"/>
+<fullyQualifiedTypeName name="android.view.View.OnClickListener"/>
+<fullyQualifiedTypeName name="com.example.less21.R.id"/>
+<fullyQualifiedTypeName name="com.example.less21.R.layout"/>
+<fullyQualifiedTypeName name="android.util.Log"/>
+<fullyQualifiedTypeName name="android.support.v7.app.AppCompatActivity"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
 </qualifiedTypeNameHistroy>

@@ -1,0 +1,62 @@
+package com.example.less23;
+
+import android.support.v7.app.ActionBarActivity;
+import android.os.Bundle;
+import android.util.Log;
+import android.view.Menu;
+import android.view.MenuItem;
+
+
+public class MainActivity extends ActionBarActivity {
+
+	final static String TAG="Statuses"; 
+	
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.main);
+    }
+
+
+
+
+    @Override
+    protected void onStart()
+    {
+    	Log.d(TAG,"onStart start");
+    	
+    	
+    }
+    
+    @Override
+    protected void onResume()
+    {
+    	Log.d(TAG, "onResume start");
+    }
+    
+    @Override
+    protected void onPause()
+    {
+    	Log.d(TAG, "onPause start");
+    	
+    }
+    
+    
+    @Override
+    protected void onStop()
+    {
+    	Log.d(TAG, "onStop start");
+    }
+
+
+
+
+
+
+
+
+}
+    
+    
+    
+    
